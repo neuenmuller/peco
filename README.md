@@ -789,7 +789,7 @@ Much code stolen from https://github.com/mattn/gof
   - [SingleKeyJump](#singlekeyjump)
   - [SelectionPrefix](#selectionprefix)
   - [Use256Color](#use256color)
-- [FAQ](#faq)
+- [FAQ2](#faq2)
   - [Does peco work on (msys2|cygwin)?](#does-peco-work-on-msys2cygwin)
   - [Non-latin fonts (e.g. Japanese) look weird on my Windows machine...?](#non-latin-fonts-eg-japanese-look-weird-on-my-windows-machine)
   - [Seeing escape sequences `[200~` and `[201~` when pasting text?](#seeing-escape-sequences-200-and-201-when-pasting-text)

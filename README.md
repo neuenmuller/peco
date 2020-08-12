@@ -637,7 +637,7 @@ Note: This has no effect on Windows because Windows console does not support ext
 }
 ```
 
-# FAQ
+# FAQ2
 
 ## Does peco work on (msys2|cygwin)?
 

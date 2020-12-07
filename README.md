@@ -726,7 +726,6 @@ Much code stolen from https://github.com/mattn/gof
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [peco](#peco)
 - [Description](#description)
   - [Demo](#demo)
